@@ -1,0 +1,2 @@
+# budget
+My budget philosophy.
