@@ -1,5 +1,5 @@
 # budget
-My budget philosophy.
+My budgeting system.
 
 ## Introduction
 
